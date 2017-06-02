@@ -96,7 +96,7 @@ public class Resume {
 		// Only print the array if they added skills
 		//if(skills[0] != null){
 			
-		System.out.println("----Skills----");
+		System.out.println("------Skills------");
 			for (int counter =0; counter<19; counter++){
 				if(skills[counter] != null){ 
 				System.out.println(skills[counter] +", "+rating[counter]); 
